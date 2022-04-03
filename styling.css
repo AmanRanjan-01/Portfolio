@@ -1,0 +1,54 @@
+p
+{
+    color:rgb(252, 251, 247);
+    font-size: 30px;
+    
+}
+a{
+    color:rgb(67, 230, 52);
+    padding: 30px;
+    font-size: 35px;
+    font-family: 'Smokum', cursive;
+}
+h2
+{
+    color:darkgrey;
+    font-weight: bold;
+    text-align: center;
+}
+a:hover
+{
+    color:darksalmon ;
+    text-decoration: none;
+    
+}
+*{
+    box-sizing: border-box;
+    
+}
+body{
+    margin: 0 auto;
+   
+}
+.container{
+    background-color:rgb(88, 11, 160);
+    padding: 5px 20px 15px 20px;
+    border: 1px solid lightgray;
+    border-radius: 4px;
+    font-family: 'Pacifico', cursive;
+    border-image: auto;
+    font-size: larger;
+    background-image: url("Moun.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#image{
+    float: right;
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    
+
+}
+

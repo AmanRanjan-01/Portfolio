@@ -1,0 +1,23 @@
+body{
+    color: rgb(0, 255, 149);
+    font-size: 30px;
+    font-family: cursive;
+    background-color:blueviolet;
+    background-image: url("Moun.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    color: chartreuse;
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a:hover{
+    color: rgb(231, 158, 106);
+    text-decoration: none;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(233, 154, 57);
+    text-align: center;
+}
